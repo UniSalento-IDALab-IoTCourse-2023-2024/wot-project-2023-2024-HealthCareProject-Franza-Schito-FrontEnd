@@ -1,0 +1,28 @@
+.activity-calendar {
+  background-color: white;
+  padding: 1.5rem;
+  border-radius: 12px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+  flex: 1;
+  min-width: 250px;
+}
+
+.activity-calendar h4 {
+  margin-bottom: 1rem;
+  color: #444;
+}
+
+.react-calendar {
+  width: 100% !important;
+  border: none;
+  font-family: 'Segoe UI', sans-serif;
+  line-height: 1.5;
+  border-radius: 12px;
+  overflow: hidden;
+}
+
+.react-calendar__tile--active {
+  background: #4d8df6;
+  color: white;
+  border-radius: 6px;
+}
