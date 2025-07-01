@@ -1,4 +1,4 @@
-# wot-HealthCareProject-Franza-Schito-FrontEnd
+# wot-NeuroCare-Franza-Schito-FrontEnd
 
 ## Descrizione del progetto
 
@@ -22,10 +22,10 @@ Le componenti dell'architettura sono:
 L’interfaccia utente dell’applicazione è stata sviluppata interamente in  **React**, una delle librerie javascript più diffuse per la costruzione di interfacce web dinamiche e performanti. React permette di realizzare componenti riutilizzabili e manutenibili, separando in modo chiaro la logica di presentazione dallo stato applicativo.
 Il frontend offre ai caregiver e ai dottori una dashboard interattiva attraverso cui è possibile consultare in tempo reale i dati biometrici raccolti. La scelta di React ha permesso di implementare grafici e visualizzazioni dinamiche che presentano in modo intuitivo l’andamento dei parametri vitali nel tempo, consentendo così una rapida individuazione di trend o eventi clinici rilevanti.
 
-## Il repository del Back End si trova al seguente link: [wot-project-2023-2024-HealthCareProject-Franza-Schito-BackEnd](https://github.com/UniSalento-IDALab-IoTCourse-2023-2024/wot-project-2023-2024-HealthCareProject-Franza-Schito-Backend.git)
+## Il repository del Back End si trova al seguente link: [wot-project-2023-2024-NeuroCare-Franza-Schito-BackEnd](https://github.com/UniSalento-IDALab-IoTCourse-2023-2024/wot-project-2023-2024-NeuroCare-Franza-Schito-Backend.git)
 
 
 
-## Il repository del Machine Laerning si trova al seguente link: [wot-project-2023-2024-HealthCareProject-Franza-Schito-MachineLearning](https://github.com/UniSalento-IDALab-IoTCourse-2023-2024/wot-project-2023-2024-HealthCareProject-Franza-Schito-MachineLearning.git)
+## Il repository del Machine Laerning si trova al seguente link: [wot-project-2023-2024-NeuroCare-Franza-Schito-MachineLearning](https://github.com/UniSalento-IDALab-IoTCourse-2023-2024/wot-project-2023-2024-NeuroCare-Franza-Schito-MachineLearning.git)
 
 ## Il sito web del progetto si trova al seguente link: [Sito Web](https://unisalento-idalab-iotcourse-2023-2024.github.io/wot-project-2023-2024-presentation-Franza-Schito-AndreaFr0.github.io/)
